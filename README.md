@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Java Frameworks, Block Chain, HTML/CSS, JS frameworks - React, Next, Express/Node, Git, Gitlab**
 
-- 👨‍💻 All of my projects are available at [https://stf-git123.github.io/Portfolio-STF-GIT123.github.io/](https://stf-git123.github.io/Portfolio-STF-GIT123.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/STF-GIT123]()
 
 - 💬 Ask me about **Java, HTML/CSS, MEARN**
 
